@@ -1,0 +1,7 @@
+footer{background-color: #000;color:#fff;padding:80px 0 ;display: flex !important;justify-content: center;}
+.grid-foo{width: 100%;max-width: 1028px;}
+.foo-info p{font-family: Open Sans;font-style: normal;font-weight: normal;font-size: 13px;line-height: 100%;}
+.foo-social{padding: 50px 0;}
+.social-bar{max-width: 430px;display: flex;justify-content: space-evenly;margin: 0 auto;}
+.social-bar a img:hover{-webkit-transform: scale(0.8);-ms-transform: scale(0.8);transform: scale(0.8);}
+.social-bar a img{transition: all 0.3s ease;}

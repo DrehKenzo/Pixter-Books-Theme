@@ -1,0 +1,8 @@
+header{background-color:#fcdb00;padding: 70px 0;}
+.header-container{position: relative;width: 100%;max-width: 1366px;padding: 0 15px;margin: 0 auto;display: flex;justify-content: space-between;}
+.header-container a img{max-width: 149px;}
+.header-container #logo{align-self: center;}
+#menu ul{display: flex;height: 43px;margin: 0;}
+#menu ul li{display:flex;padding-left: 10px;align-self: center;}
+#menu ul li a{font-family: Open Sans;font-style: normal;font-weight: bold;font-size: 22px;line-height: 30px;color: #010101;text-decoration: none;padding: 75px 20px;border-bottom: 2px solid #fcdb00;transition: max-width 0.2s ease;}
+#menu ul li a:hover{border-bottom: 2px solid #000;-webkit-animation: swing 1s ease;animation: swing 1s ease;-webkit-animation-iteration-count: 1;animation-iteration-count: 1;}
